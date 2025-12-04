@@ -7,8 +7,7 @@ Haochun Gao - haochun.gao@stonybrook.edu
 Evan Wang - evan.j.wang@stonybrook.edu
 
 
-
-Run 
+To populate the database, in mysql run 
 ```
 SOURCE create_tables.sql
 SOURCE create_tables.sql
